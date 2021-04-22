@@ -1,0 +1,13 @@
+
+# obj files
+*.o
+
+# temp files
+*.~
+*.bak
+*.temp
+
+# build and install folders
+build/
+bin/
+install/
