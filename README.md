@@ -26,7 +26,8 @@ omp_test
 ./bin/omp_test data/lena.jpg
 (time ./bin/omp_test data/lena.jpg)
 
-**Dependency**
+**依赖**
+
 OpenCV3.x
 
 **resize的主体代码参考了以下项目**
