@@ -6,6 +6,7 @@
 *.~
 *.bak
 *.temp
+*.jpg
 
 # build and install folders
 build/
